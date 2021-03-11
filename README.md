@@ -1,1 +1,1 @@
-# dot_repo
+# dot_repo - Dot file manager by Bhupesh Varshney
